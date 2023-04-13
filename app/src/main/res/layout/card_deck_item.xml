@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="48dp"
+    android:layout_height="68.25dp"
+    android:background="@drawable/rare_card"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/card_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="@string/knock_back"
+        android:textAlignment="center"
+        android:textColor="@color/theme_card_text"
+        android:textSize="7sp"
+        android:textStyle="bold"
+        tools:ignore="SmallSp" />
+    <ImageView
+        android:id="@+id/card_item_image"
+        android:layout_width="38dp"
+        android:layout_height="40dp"
+        android:layout_margin="4dp"
+        android:src="@drawable/card_knock_back"
+        android:contentDescription="@string/card_image_desc" />
+</LinearLayout>

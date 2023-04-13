@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switcher">Teletransportar</string>
+    <string name="knock_back">Derribo</string>
+    <string name="hinder">Zancadilla</string>
+    <string name="intimidation">Intimidación</string>
+    <string name="tricker">Juego de manos</string>
+    <string name="knock_back_desc">El jugador atacado vuelve a la última casilla segura</string>
+    <string name="amble">Paseo</string>
+    <string name="jogging">Footing</string>
+    <string name="sprint">Esprintar</string>
+    <string name="switcher_desc">Intercambia de posición entre el propietario y el jugador objetivo</string>
+    <string name="hinder_desc">El jugador objetivo tropieza y pierde una carta</string>
+    <string name="intimidation_desc">El proximo turno, el jugador objetivo pierde 1 de movilidad</string>
+    <string name="tricker_desc">Intercambia las cartas con el jugador objetivo</string>
+    <string name="amble_desc">Mueve al jugador objetivo 1 posiciones hacia adelante o atrás.</string>
+    <string name="jogging_desc">Mueve al jugador objetivo 2 posiciones hacia adelante o atrás.</string>
+    <string name="sprint_desc">Mueve 3 posiciones hacia adelante o hacia atras 3 posiciones</string>
+    <string name="atack">Atacar</string>
+</resources>

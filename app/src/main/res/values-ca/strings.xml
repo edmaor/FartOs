@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="switcher">Canvia\'m</string>
+    <string name="knock_back">Enderroc</string>
+    <string name="hinder">Traveta</string>
+    <string name="intimidation">Intimidació</string>
+    <string name="tricker">Joc de mans</string>
+    <string name="knock_back_desc">El jugador atacat torna a la ultima casella segura</string>
+    <string name="amble">Passeig</string>
+    <string name="jogging">Footing</string>
+    <string name="sprint">Esprintar</string>
+    <string name="switcher_desc">Intercanvia de posició entre el propietari i el jugador objectiu</string>
+    <string name="hinder_desc">El jugador objectiu cau i perd una carta</string>
+    <string name="intimidation_desc">El proper torn, el jugador objectiu perd 1 de mobilitat</string>
+    <string name="tricker_desc">Intercanvia les cartes amb el jugador objectiu</string>
+    <string name="amble_desc">Mou al jugador objectiu 1 posicions cap endavant o cap enrere.</string>
+    <string name="jogging_desc">Mou al jugador objectiu 2 posicions cap endavant o cap enrere.</string>
+    <string name="sprint_desc">Mou al jugador objectiu 3 posicions cap endavant o cap enrere.</string>
+    <string name="atack">Ataca</string>
+</resources>

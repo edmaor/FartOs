@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">FartOS</string>
+    <string name="card_image_desc" translatable="false">Card image</string>
+    <!--    CARDS   -->
+    <string name="switcher">Switcher</string>
+    <string name="switcher_desc">Swaps positions between the owner and target player</string>
+
+    <string name="knock_back">Knock-back</string>
+    <string name="knock_back_desc">The attacked goes back to the last save tile</string>
+
+    <string name="hinder">Hinder</string>
+    <string name="hinder_desc">Target player trips and loses a card</string>
+
+    <string name="intimidation">Intimidation</string>
+    <string name="intimidation_desc">During next turn, target player loses 1 mobility.</string>
+
+    <string name="tricker">Tricker</string>
+    <string name="tricker_desc">Swap cards with the targeted player</string>
+
+    <string name="amble">Amble</string>
+
+    <string name="jogging">Jogging</string>
+    <string name="jogging_desc">Moves target player 2 positions forward or backward.</string>
+
+    <string name="sprint">Sprint</string>
+    <string name="sprint_desc">Moves target player 3 positions forward or backward.</string>
+    <string name="amble_desc">Moves target player 1 positions forward or backward.</string>
+    <string name="atack">Atack</string>
+</resources>
